@@ -1,0 +1,6 @@
+export const ADD_ERROR = "ADD_ERROR"
+export const REMOVE_ERROR = "REMOVE_ERROR"
+export const SET_CURRENT_USER = "SET_CURRENT_USER"
+export const LOAD_NOTES = "LOAD_NOTES"
+export const REMOVE_NOTE = "MOVE_NOTE"
+export const UPDATE_NOTE = "UPDATE_NOTE"
